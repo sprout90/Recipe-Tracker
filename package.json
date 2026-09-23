@@ -5,7 +5,7 @@
   "description": "React recipe application demonstrating components, props, controlled forms, event handling, and state management",
   "repository": {
     "type": "git",
-    "url": "YOUR-ACTUAL-RECIPE-TRACKER-GITHUB-URL"
+    "url": "https://github.com/sprout90/Recipe-Tracker.git"
     },
   "keywords": [
     "react",
