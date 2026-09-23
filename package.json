@@ -1,7 +1,21 @@
 {
-  "name": "recipe-app",
+  "name": "recipe-tracker",
   "version": "0.1.0",
   "private": true,
+  "description": "React recipe application demonstrating components, props, controlled forms, event handling, and state management",
+  "repository": {
+    "type": "git",
+    "url": "YOUR-ACTUAL-RECIPE-TRACKER-GITHUB-URL"
+    },
+  "keywords": [
+    "react",
+    "state-management",
+    "props",
+    "components",
+    "controlled-forms",
+    "event-handling"
+  ],
+  "author": "Michael Brehm",
   "dependencies": {
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
